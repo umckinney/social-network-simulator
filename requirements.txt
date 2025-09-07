@@ -1,0 +1,10 @@
+loguru
+peewee
+flask
+loguru
+peewee
+playhouse
+dataset
+email-validator
+flask-restful
+flask-sqlalchemy
